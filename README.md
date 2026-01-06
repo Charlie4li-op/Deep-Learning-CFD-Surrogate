@@ -22,7 +22,4 @@ Unlike standard "black box" AI models, this system is **Physics-Informed**. It u
 
 ## 🛠️ Installation
 
-1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/Charlie4li-op/Deep-Learning-CFD-Surrogate.git](https://github.com/Charlie4li-op/Deep-Learning-CFD-Surrogate.git)
-   cd Deep-Learning-CFD-Surrogate
+Download the Pre-Trained Model: The model file is too large for GitHub, so it is hosted externally. 👉 Click Here to Download cfd_unet_physics_v2.pth (Google Drive)

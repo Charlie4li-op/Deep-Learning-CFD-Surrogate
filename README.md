@@ -21,7 +21,8 @@ Unlike standard "black box" AI models, this system is **Physics-Informed**. It u
     * **Generalization:** Successfully predicts flow for unseen geometries (e.g., NACA 4412).
 
 ## 🛠️ Installation
+
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/Deep-Learning-CFD-Surrogate.git](https://github.com/YOUR_USERNAME/Deep-Learning-CFD-Surrogate.git)
+   git clone [https://github.com/Charlie4li-op/Deep-Learning-CFD-Surrogate.git](https://github.com/Charlie4li-op/Deep-Learning-CFD-Surrogate.git)
    cd Deep-Learning-CFD-Surrogate

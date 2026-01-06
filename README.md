@@ -22,4 +22,4 @@ Unlike standard "black box" AI models, this system is **Physics-Informed**. It u
 
 ## 🛠️ Installation
 
-Download the Pre-Trained Model: The model file is too large for GitHub, so it is hosted externally. 👉 Click Here to Download cfd_unet_physics_v2.pth (Google Drive)
+Download the Pre-Trained Model: The model file is too large for GitHub, so it is hosted externally. 👉 **[Click Here to Download cfd_unet_physics_v2.pth (Google Drive)](https://drive.google.com/file/d/1Is_vTU8uGnifgwObIvq3G4uwzta48XyJ/view?usp=drive_link)**
